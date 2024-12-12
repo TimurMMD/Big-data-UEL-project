@@ -16,6 +16,7 @@ This repository contains the group project work for the Big Data Analytics modul
 ```
 ├── UEL_Big_Data_Analytics_Assessment.docx    # Detailed project report
 ├── XGBoost.ipynb                             # Python notebook implementing the XGBoost model
+├── XGBoost_pyspark.ipynb                     # Python notebook implementing the XGBoost model via PySpark
 ├── README.md                                 # Project description (this file)
 ```
 
